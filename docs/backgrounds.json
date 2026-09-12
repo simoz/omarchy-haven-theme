@@ -27,7 +27,7 @@
     "preview": "docs/previews/03-morning-greenhouse.jpg",
     "width": 3840,
     "height": 2160,
-    "sha256": "3600bdde26fbdcbaee79cc8c1f34d0e83f7252a46c6ffee9b0113415c521dab6",
+    "sha256": "fa40582232532d6d8902b2bef5d9fef8387f84ce753abc09b56288851762f831",
     "model": "gpt-image-2",
     "quality": "high",
     "requested_size": "3840x2160"
@@ -38,7 +38,7 @@
     "preview": "docs/previews/04-limestone-cove.jpg",
     "width": 3840,
     "height": 2160,
-    "sha256": "60fadf584a862fcbcd09d9fa9e9f82b8968da6f6c16134441f1bceac237fd1ae",
+    "sha256": "c3bc4ff9163928f48c240621c07550a350e8f1be0226d60cb504a61029bae7a8",
     "model": "gpt-image-2",
     "quality": "high",
     "requested_size": "3840x2160"
@@ -49,7 +49,7 @@
     "preview": "docs/previews/05-birch-clearing.jpg",
     "width": 3840,
     "height": 2160,
-    "sha256": "822e14f1f078cca6a7dee07143bf0e2870c8ebdce3ef0f298bb69ae5db8a3d7b",
+    "sha256": "f0c9d4e67626c30076eb3a31b60f5b1fb5df5cd73da2a34e761762b0081f7cd3",
     "model": "gpt-image-2",
     "quality": "high",
     "requested_size": "3840x2160"
@@ -60,7 +60,7 @@
     "preview": "docs/previews/06-cloud-observatory.jpg",
     "width": 3840,
     "height": 2160,
-    "sha256": "c582c82345e5ab18fe9aa9cbe0f56f3675702ca17e402b462cae9f62ad63d81f",
+    "sha256": "d949355255313673b0d29463595d48a8ab860694e6b8925eb38e637279e7b381",
     "model": "gpt-image-2",
     "quality": "high",
     "requested_size": "3840x2160"
@@ -71,7 +71,7 @@
     "preview": "docs/previews/07-river-delta.jpg",
     "width": 3840,
     "height": 2160,
-    "sha256": "1082f8efccd2afb5a189094c386130e8855726f154499f7334a16ea2954cd16b",
+    "sha256": "ea6622d268119deafc83f268702fd61730102eab8cb21bc2d5db4c9bdeb6919f",
     "model": "gpt-image-2",
     "quality": "high",
     "requested_size": "3840x2160"
@@ -82,7 +82,7 @@
     "preview": "docs/previews/08-salt-water-garden.jpg",
     "width": 3840,
     "height": 2160,
-    "sha256": "2ab4215467df1c4e006267eb787caa894c8eecec791142458f2ed23dc1ee6268",
+    "sha256": "1e3da2088b847409f19fb47f93a7733cfe6a8f1bcf172eabefd77aff775c5fbf",
     "model": "gpt-image-2",
     "quality": "high",
     "requested_size": "3840x2160"
@@ -93,7 +93,7 @@
     "preview": "docs/previews/09-orchard-stop.jpg",
     "width": 3840,
     "height": 2160,
-    "sha256": "929f4c7de043441672e053f6b90fe71ea25593d33e7fbf79fe9058cf76a838b9",
+    "sha256": "b352a161e839382cc9954204758a8b9e152143f53574555059685c63286cb7b0",
     "model": "gpt-image-2",
     "quality": "high",
     "requested_size": "3840x2160"
@@ -104,7 +104,7 @@
     "preview": "docs/previews/10-tea-terraces.jpg",
     "width": 3840,
     "height": 2160,
-    "sha256": "cba966936463421f7968ffbd952c703118e70d6d99b24d1b4fd79e93752dfaaa",
+    "sha256": "412692d1549354eaac1f79080376d5f9baa51a4c9a0164655d3508a73478c2d7",
     "model": "gpt-image-2",
     "quality": "high",
     "requested_size": "3840x2160"
@@ -115,7 +115,7 @@
     "preview": "docs/previews/11-geothermal-gardens.jpg",
     "width": 3840,
     "height": 2160,
-    "sha256": "a4f9bcab48ee92d95043777c2f3ecca128317d18cb5a4cae9c0d4e72ee9e6a0c",
+    "sha256": "59cf161e80ba02a41e52fc6f2d5f7efeb3b36ed33d77dfba328aa88c2163a94a",
     "model": "gpt-image-2",
     "quality": "high",
     "requested_size": "3840x2160"
@@ -126,7 +126,7 @@
     "preview": "docs/previews/12-ruins-nursery.jpg",
     "width": 3840,
     "height": 2160,
-    "sha256": "b99aa1b84555f1b5311aeba1bac05dbea98a8d9af66586b6eb76bf3314b4385c",
+    "sha256": "cd214ba221471123156affabf847351ea3bc88474eb1d9e4b4215eb6864889b0",
     "model": "gpt-image-2",
     "quality": "high",
     "requested_size": "3840x2160"
