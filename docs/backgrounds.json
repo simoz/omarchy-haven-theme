@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Little harbour",
+    "file": "backgrounds/01-little-harbour.png",
+    "preview": "docs/previews/01-little-harbour.jpg",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "8fa4baf32f849416da705242c6a41b66e07969bb39f8a45a42daf663c3914195",
+    "model": "gpt-image-2",
+    "quality": "high",
+    "requested_size": "3840x2160"
+  },
+  {
+    "title": "Rooftop laundry",
+    "file": "backgrounds/02-rooftop-laundry.png",
+    "preview": "docs/previews/02-rooftop-laundry.jpg",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "5ed07f7c98eb312c07af52cfe6cacb3f5a0bfb81e268315bb7576cf16c7c2ccc",
+    "model": "gpt-image-2",
+    "quality": "high",
+    "requested_size": "3840x2160"
+  },
+  {
+    "title": "Morning greenhouse",
+    "file": "backgrounds/03-morning-greenhouse.png",
+    "preview": "docs/previews/03-morning-greenhouse.jpg",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "3600bdde26fbdcbaee79cc8c1f34d0e83f7252a46c6ffee9b0113415c521dab6",
+    "model": "gpt-image-2",
+    "quality": "high",
+    "requested_size": "3840x2160"
+  },
+  {
+    "title": "Limestone cove",
+    "file": "backgrounds/04-limestone-cove.png",
+    "preview": "docs/previews/04-limestone-cove.jpg",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "60fadf584a862fcbcd09d9fa9e9f82b8968da6f6c16134441f1bceac237fd1ae",
+    "model": "gpt-image-2",
+    "quality": "high",
+    "requested_size": "3840x2160"
+  },
+  {
+    "title": "Birch clearing",
+    "file": "backgrounds/05-birch-clearing.png",
+    "preview": "docs/previews/05-birch-clearing.jpg",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "822e14f1f078cca6a7dee07143bf0e2870c8ebdce3ef0f298bb69ae5db8a3d7b",
+    "model": "gpt-image-2",
+    "quality": "high",
+    "requested_size": "3840x2160"
+  },
+  {
+    "title": "Cloud observatory",
+    "file": "backgrounds/06-cloud-observatory.png",
+    "preview": "docs/previews/06-cloud-observatory.jpg",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "c582c82345e5ab18fe9aa9cbe0f56f3675702ca17e402b462cae9f62ad63d81f",
+    "model": "gpt-image-2",
+    "quality": "high",
+    "requested_size": "3840x2160"
+  },
+  {
+    "title": "River delta",
+    "file": "backgrounds/07-river-delta.png",
+    "preview": "docs/previews/07-river-delta.jpg",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "1082f8efccd2afb5a189094c386130e8855726f154499f7334a16ea2954cd16b",
+    "model": "gpt-image-2",
+    "quality": "high",
+    "requested_size": "3840x2160"
+  },
+  {
+    "title": "Salt water garden",
+    "file": "backgrounds/08-salt-water-garden.png",
+    "preview": "docs/previews/08-salt-water-garden.jpg",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "2ab4215467df1c4e006267eb787caa894c8eecec791142458f2ed23dc1ee6268",
+    "model": "gpt-image-2",
+    "quality": "high",
+    "requested_size": "3840x2160"
+  },
+  {
+    "title": "Orchard stop",
+    "file": "backgrounds/09-orchard-stop.png",
+    "preview": "docs/previews/09-orchard-stop.jpg",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "929f4c7de043441672e053f6b90fe71ea25593d33e7fbf79fe9058cf76a838b9",
+    "model": "gpt-image-2",
+    "quality": "high",
+    "requested_size": "3840x2160"
+  },
+  {
+    "title": "Tea terraces",
+    "file": "backgrounds/10-tea-terraces.png",
+    "preview": "docs/previews/10-tea-terraces.jpg",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "cba966936463421f7968ffbd952c703118e70d6d99b24d1b4fd79e93752dfaaa",
+    "model": "gpt-image-2",
+    "quality": "high",
+    "requested_size": "3840x2160"
+  },
+  {
+    "title": "Geothermal gardens",
+    "file": "backgrounds/11-geothermal-gardens.png",
+    "preview": "docs/previews/11-geothermal-gardens.jpg",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "a4f9bcab48ee92d95043777c2f3ecca128317d18cb5a4cae9c0d4e72ee9e6a0c",
+    "model": "gpt-image-2",
+    "quality": "high",
+    "requested_size": "3840x2160"
+  },
+  {
+    "title": "Nursery in the ruins",
+    "file": "backgrounds/12-ruins-nursery.png",
+    "preview": "docs/previews/12-ruins-nursery.jpg",
+    "width": 3840,
+    "height": 2160,
+    "sha256": "b99aa1b84555f1b5311aeba1bac05dbea98a8d9af66586b6eb76bf3314b4385c",
+    "model": "gpt-image-2",
+    "quality": "high",
+    "requested_size": "3840x2160"
+  }
+]

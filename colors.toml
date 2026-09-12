@@ -1,0 +1,33 @@
+# Haven — warm mineral surfaces, petroleum text, sage and aged copper.
+mode = "light"
+
+accent = "#795334"
+selection = "#CEDBD5"
+muted = "#526056"
+
+background = "#EEE8DA"
+dark_background = "#E7DFD0"
+darker_background = "#E2DAC9"
+lighter_background = "#E2DAC9"
+
+foreground = "#263D40"
+dark_foreground = "#526056"
+light_foreground = "#344C4B"
+bright_foreground = "#203538"
+
+red = "#8C4036"
+yellow = "#73591C"
+orange = "#8C4829"
+green = "#4C6045"
+cyan = "#2E605D"
+blue = "#315B7B"
+magenta = "#6C4D6C"
+brown = "#795334"
+
+# Bright ANSI variants remain dark enough for the light canvas.
+bright_red = "#963A30"
+bright_yellow = "#645A19"
+bright_green = "#3D6040"
+bright_cyan = "#245F55"
+bright_blue = "#265D75"
+bright_magenta = "#634A7C"
