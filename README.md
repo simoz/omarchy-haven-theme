@@ -4,7 +4,7 @@
 
 A light pixel art theme for Omarchy, set in a peaceful, inhabited corner of the world of Outpost.
 
-[![Haven harbour wallpaper](docs/previews/01-little-harbour.jpg)](backgrounds/01-little-harbour.png)
+[![Haven theme on Omarchy with an editor, terminal, btop, file manager and menu](docs/screenshots/hero.webp)](docs/screenshots/hero.webp)
 
 ## Backgrounds
 
@@ -69,6 +69,16 @@ Open **System → Screensaver** to preview it. Like About, this is a personal se
 
 Ivory and sand surfaces, petroleum text and copper borders carry through the bar, menus, launcher, notifications and authentication dialogs. Selected rows use a solid mist-green background. `shell.toml` defines the appearance; personal shell settings take precedence.
 
+## Desktop previews
+
+Click a screenshot to view it at full size. Captured on Omarchy 4.0.2-1.
+
+| Desktop | Terminal |
+| --- | --- |
+| [![Haven desktop with the Little harbour wallpaper](docs/screenshots/desktop.webp)](docs/screenshots/desktop.webp) | [![Terminal with the Haven color palette](docs/screenshots/terminal.webp)](docs/screenshots/terminal.webp) |
+| **Omarchy menu** | **About artwork** |
+| [![Omarchy menu with copper borders and ivory surfaces](docs/screenshots/menu.webp)](docs/screenshots/menu.webp) | [![Haven About artwork on Omarchy](docs/screenshots/about.webp)](docs/screenshots/about.webp) |
+
 ## Palette
 
 | Role | Color |
@@ -87,7 +97,7 @@ Opaque-color contrast: primary text 9.42:1 on the background; primary text 8.07:
 
 ## Compatibility
 
-The theme uses the Omarchy 4 central palette format. Omarchy generates application configurations from its [official templates](https://github.com/omacom/omarchy/tree/quattro/default/themed); `shell.toml` customizes the shared shell surfaces.
+The theme uses the Omarchy 4 central palette format. Omarchy generates application configurations from its [official templates](https://github.com/omacom/omarchy/tree/quattro/default/themed); `shell.toml` customizes the shared shell surfaces. The screenshots above show the theme running on Omarchy 4.0.2-1.
 
 ## Image credits
 
