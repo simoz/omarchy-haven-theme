@@ -8,14 +8,14 @@ A light pixel art theme for Omarchy, set in a peaceful, inhabited corner of the 
 
 ## Backgrounds
 
-Twelve wallpapers, all 3840 × 2160. Click a preview to open the full-resolution PNG.
+Twelve wallpapers, all 3840 × 2160. Click a preview to open the full-resolution WebP.
 
 | | | |
 | --- | --- | --- |
-| [![Little harbour](docs/previews/01-little-harbour.jpg)](backgrounds/01-little-harbour.png)<br>Little harbour | [![Rooftop laundry](docs/previews/02-rooftop-laundry.jpg)](backgrounds/02-rooftop-laundry.png)<br>Rooftop laundry | [![Morning greenhouse](docs/previews/03-morning-greenhouse.jpg)](backgrounds/03-morning-greenhouse.png)<br>Morning greenhouse |
-| [![Limestone cove](docs/previews/04-limestone-cove.jpg)](backgrounds/04-limestone-cove.png)<br>Limestone cove | [![Birch clearing](docs/previews/05-birch-clearing.jpg)](backgrounds/05-birch-clearing.png)<br>Birch clearing | [![Cloud observatory](docs/previews/06-cloud-observatory.jpg)](backgrounds/06-cloud-observatory.png)<br>Cloud observatory |
-| [![River delta](docs/previews/07-river-delta.jpg)](backgrounds/07-river-delta.png)<br>River delta | [![Salt water garden](docs/previews/08-salt-water-garden.jpg)](backgrounds/08-salt-water-garden.png)<br>Salt water garden | [![Orchard stop](docs/previews/09-orchard-stop.jpg)](backgrounds/09-orchard-stop.png)<br>Orchard stop |
-| [![Tea terraces](docs/previews/10-tea-terraces.jpg)](backgrounds/10-tea-terraces.png)<br>Tea terraces | [![Geothermal gardens](docs/previews/11-geothermal-gardens.jpg)](backgrounds/11-geothermal-gardens.png)<br>Geothermal gardens | [![Nursery in the ruins](docs/previews/12-ruins-nursery.jpg)](backgrounds/12-ruins-nursery.png)<br>Nursery in the ruins |
+| [![Little harbour](docs/previews/01-little-harbour.jpg)](backgrounds/01-little-harbour.webp)<br>Little harbour | [![Rooftop laundry](docs/previews/02-rooftop-laundry.jpg)](backgrounds/02-rooftop-laundry.webp)<br>Rooftop laundry | [![Morning greenhouse](docs/previews/03-morning-greenhouse.jpg)](backgrounds/03-morning-greenhouse.webp)<br>Morning greenhouse |
+| [![Limestone cove](docs/previews/04-limestone-cove.jpg)](backgrounds/04-limestone-cove.webp)<br>Limestone cove | [![Birch clearing](docs/previews/05-birch-clearing.jpg)](backgrounds/05-birch-clearing.webp)<br>Birch clearing | [![Cloud observatory](docs/previews/06-cloud-observatory.jpg)](backgrounds/06-cloud-observatory.webp)<br>Cloud observatory |
+| [![River delta](docs/previews/07-river-delta.jpg)](backgrounds/07-river-delta.webp)<br>River delta | [![Salt water garden](docs/previews/08-salt-water-garden.jpg)](backgrounds/08-salt-water-garden.webp)<br>Salt water garden | [![Orchard stop](docs/previews/09-orchard-stop.jpg)](backgrounds/09-orchard-stop.webp)<br>Orchard stop |
+| [![Tea terraces](docs/previews/10-tea-terraces.jpg)](backgrounds/10-tea-terraces.webp)<br>Tea terraces | [![Geothermal gardens](docs/previews/11-geothermal-gardens.jpg)](backgrounds/11-geothermal-gardens.webp)<br>Geothermal gardens | [![Nursery in the ruins](docs/previews/12-ruins-nursery.jpg)](backgrounds/12-ruins-nursery.webp)<br>Nursery in the ruins |
 
 ## Inspiration
 
