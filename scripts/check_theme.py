@@ -89,7 +89,7 @@ for record in records:
         assert preview.size == (1280, 720), record["preview"]
 for path, size in (("preview.png", (1920, 1080)), ("unlock.png", (3840, 2160)),
                    ("docs/branding/logo.png", (1536, 1024)),
-                   ("docs/branding/social.png", (1920, 1008))):
+                   ("docs/branding/social.png", (1280, 672))):
     with Image.open(root / path) as picture:
         picture.load()
         assert picture.size == size, path
